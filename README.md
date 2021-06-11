@@ -18,7 +18,9 @@ This project was created primarily for my own use. Of course, you can use it for
 - Navigate to the main page of this repository.
 - Above the file list, click `Use this template` and create your new repo.
 - Clone it.
+
 **or**
+
 - Just download the code and start working locally.
 
 **Don't forget to:**
